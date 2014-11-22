@@ -1,0 +1,14 @@
+PODS:
+  - LibMagic (5.19.0)
+
+DEPENDENCIES:
+  - LibMagic (from `../`)
+
+EXTERNAL SOURCES:
+  LibMagic:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LibMagic: f9a0504d0bd995d7a583fc0ba984b840c5a5c88b
+
+COCOAPODS: 0.33.1

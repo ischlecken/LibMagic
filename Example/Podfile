@@ -1,0 +1,4 @@
+
+target 'LibMagic', :exclusive => true do
+  pod "LibMagic", :path => "../"
+end
